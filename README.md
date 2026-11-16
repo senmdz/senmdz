@@ -9,9 +9,13 @@ Desenvolvimento, design e tecnologia.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,js,html,css,react,ts,python,figma,android,git,github&perline=6" />
+### Tecnologias e Ferramentas
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,js,html,css,react,ts,python,androidstudio,figma,git,github&perline=7" />
 
 <br><br>
+
+### GitHub Metrics
 
 <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
 
