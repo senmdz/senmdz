@@ -15,10 +15,4 @@ Desenvolvimento, design e tecnologia.
 
 <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
 
-<br>
-
-### Projetos
-
-[**Apollo Board**](https://github.com/senmdz/apollo_board)
-
 </div>
